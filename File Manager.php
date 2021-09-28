@@ -21,7 +21,7 @@ class file_manager
     public function login()
     {
 
-        $pass = "jancok";
+        $pass = "icwr";
 
         if(!empty($_POST['passwd']) && $_POST['passwd'] == $pass) {
 
